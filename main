@@ -38,7 +38,7 @@ Library.UnloadCallback = function()
 end
 
 local MainFrame = Library:CreateWindow({
-	Name = "Quasar",
+	Name = "QUASAR V2",
 	Themeable = {
 		Image = "7059346386",
 		Info = "Made by P3x.7\nPowered by track's UI Library",
