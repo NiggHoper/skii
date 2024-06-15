@@ -935,7 +935,7 @@ InformationSection:Label("Made by Exunys")
 InformationSection:Button({
 	Name = "Copy GitHub",
 	Callback = function()
-		setclipboard("https://github.com/Exunys")
+		setclipboard("https://discord.gg/PV9ESYyUHB")
 	end
 })
 
@@ -944,7 +944,7 @@ InformationSection:Label("AirTeam © 2022 - "..osdate("%Y"))
 InformationSection:Button({
 	Name = "Copy Discord Invite",
 	Callback = function()
-		setclipboard("https://discord.gg/Ncz3H3quUZ")
+		setclipboard("https://discord.gg/PV9ESYyUHB")
 	end
 })
 
