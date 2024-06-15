@@ -22,7 +22,7 @@ getgenv().AirHub = {}
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NiggHoper/skii/main/libreria%201"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NiggHoper/skii/main/libreria%202"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NiggHoper/KYTeYnhdYUJR-YtbTG/main/KgfrEdfe-Yunb34"))()
+
 --// Variables
 
 local Library = loadstring(game:GetObjects("rbxassetid://7657867786")[1].Source)() -- Pepsi's UI Library
