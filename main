@@ -898,9 +898,9 @@ FunctionsSection:AddButton({
 })
 
 FunctionsSection:AddButton({
-	Name = "Copy Script Page",
+	Name = "Copy Discord Page",
 	Callback = function()
-		setclipboard("https://github.com/Exunys/AirHub")
+		setclipboard("https://discord.gg/PV9ESYyUHB")
 	end
 })
 
