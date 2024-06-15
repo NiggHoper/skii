@@ -919,8 +919,8 @@ do
 	end
 
 	game.StarterGui:SetCore("SendNotification", {
-		Title = "🎆  AirHub V2  🎆",
-		Text = "Would you like to use the new AirHub V2 script?",
+		Title = "🎆  QUASAR V2  🎆",
+		Text = "SMASH THOSE FAGGOTS ",
 		
 	})
 end
