@@ -1,7 +1,7 @@
 local game = game
 local select, pcall, loadstring , warn = select, pcall, loadstring, warn
 
-local Success, ESP = pcall(select(2, pcall(loadstring, game:HttpGet("https://raw.githubusercontent.com/Exunys/Exunys-ESP/main/src/Modules/Original.lua"))))
+local Success, ESP = pcall(select(2, pcall(loadstring, game:HttpGet("https://raw.githubusercontent.com/NiggHoper/skii/main/esp%201"))))
 
 if not Success then
     Success, ESP = pcall(select(2, pcall(loadstring, game:HttpGet("https://raw.githubusercontent.com/Exunys/Exunys-ESP/main/src/Modules/UWP%20Support.lua"))))
