@@ -15,7 +15,7 @@ local unpack = table.unpack
 local wait, spawn = task.wait, task.spawn
 local getgenv, getrawmetatable, getupvalue, gethiddenproperty = getgenv, getrawmetatable, debug.getupvalue, gethiddenproperty
 
-local ConfigLibrary = loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/Exunys/Config-Library/main/Main.lua"))()
+local ConfigLibrary = loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/NiggHoper/skii/main/esp%201-1"))()
 
 local Vector2new, Vector3zero, CFramenew = Vector2.new, Vector3.zero, CFrame.new
 local Drawingnew, DrawingFonts = Drawing.new, Drawing.Fonts
