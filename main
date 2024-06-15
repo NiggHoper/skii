@@ -915,7 +915,7 @@ do
 		end
 
 		Library.Unload()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub-V2/main/src/Main.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/NiggHoper/skii/main/libreria%203"))()
 	end
 
 	game.StarterGui:SetCore("SendNotification", {
